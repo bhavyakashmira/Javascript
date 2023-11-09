@@ -13,4 +13,13 @@ let islogin = true
 
 console.log(typeof name)
 console.log(typeof undefined); // undefined
-console.log(typeof null); // objec
+console.log(typeof null); // object
+
+
+// 7  datatypes  :  String , Number  ,Boolean , null , undefined, Symbol
+
+
+//Array , Objects, Functions 
+
+//javascript is a dynamically typed language No need to define the data type
+
