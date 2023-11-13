@@ -50,10 +50,10 @@ Welcome to the JavaScript Learning Repository! This repository is designed to he
    - DOM 
 
 ###  MODULE 7
-    - projects
+   - projects
 
 ###  MODULE 8
-    - events in js
+   - events in js
 
 ###  MODULE 9
    - API request in js
